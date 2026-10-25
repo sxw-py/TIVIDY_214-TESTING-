@@ -5,5 +5,6 @@ int main() {
     std::cout << "   TIVIDY: Generic Workflow Engine      \n";
     std::cout << "   COS 214 Project Scaffolding          \n";
     std::cout << "========================================\n";
+    std::cout << "Commit directly to dev, branch protection FAILED!!!" ;
     return 0;
 }
