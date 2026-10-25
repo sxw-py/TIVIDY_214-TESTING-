@@ -1,4 +1,4 @@
-# TIVIDY: Generic Workflow Management System
+# TIVIDY: Generic Workflow Management System 
 
 ## CI workflow setup(Github)
 ## 1. Quick Start & Build Instructions 
